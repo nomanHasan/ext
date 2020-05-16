@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ext/precache-manifest.f23b8350b60c308ed72174c43510518d.js"
+  "/ext/precache-manifest.5db89d07f582bdfd02c25829b57feeee.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "exercise-timer"});
