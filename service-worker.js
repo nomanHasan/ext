@@ -39,12 +39,12 @@ if (workbox) {
     "revision": "f0ac1bf62893e682c64e564bf1af7131"
   },
   {
-    "url": "css/app.f84efb23.css",
-    "revision": "6688bd04d7822d0f0b44b5ca780e7cfb"
+    "url": "css/app.8851448b.css",
+    "revision": "a29f6c9ad27835b61b62a8a5f6172203"
   },
   {
-    "url": "css/chunk-vendors.1892d3f1.css",
-    "revision": "a4686148a7099d676464873ef8ae48af"
+    "url": "css/chunk-vendors.ee2f7d48.css",
+    "revision": "67e7f9b926b2053affad092a0075a0c7"
   },
   {
     "url": "favicon.ico",
@@ -124,23 +124,23 @@ if (workbox) {
   },
   {
     "url": "index.html",
-    "revision": "afa39aff253d1bef6e73ddf4702a19fa"
+    "revision": "7f120b42268c4ce234aa4d3215d3ad6f"
   },
   {
-    "url": "js/app.93a275ae.js",
-    "revision": "71d797b44d614aedc123eb1ce5408e01"
+    "url": "js/app.0e2db692.js",
+    "revision": "20280db33b204ed4001a67f3bd9f9ed9"
   },
   {
-    "url": "js/chunk-vendors.f6303245.js",
-    "revision": "6d160e70c07cd4589fead9c7bad040d8"
+    "url": "js/chunk-vendors.40574135.js",
+    "revision": "d1e583577a9b89672dae16b097314263"
   },
   {
     "url": "manifest.json",
     "revision": "43018d2ca80b56ac79ea0f0abf886cb7"
   },
   {
-    "url": "precache-manifest.21fd3379196837e3014dbc1bba0b0deb.js",
-    "revision": "21fd3379196837e3014dbc1bba0b0deb"
+    "url": "precache-manifest.2d8f2a6cf901a43e8a2b34de3b7ad260.js",
+    "revision": "2d8f2a6cf901a43e8a2b34de3b7ad260"
   },
   {
     "url": "robots.txt",
